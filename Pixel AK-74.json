@@ -1,0 +1,195 @@
+{
+  "replacement_rules": [
+    {
+      "type": "group",
+      "name": "Sound",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Mag Exit Replace",
+          "replace_ids": [
+            13236549962
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Pixelclaw/raw/refs/heads/main/pixel%20boneclaw%20mag%20exit.wav"
+        },
+        {
+          "name": "Equip Replace",
+          "replace_ids": [
+            13158735106
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Pixelclaw/raw/refs/heads/main/pixel%20boneclaw%20equip.wav"
+        },
+        {
+          "name": "Mag Exit2 Replace",
+          "replace_ids": [
+            13455395017
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Pixelclaw/raw/refs/heads/main/pixel%20boneclaw%20mag%20exit2.wav"
+        },
+        {
+          "name": "Bolt Sound Replace",
+          "replace_ids": [
+            13236549929
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Pixelclaw/raw/refs/heads/main/pixel%20bonclaw%20bolt%20sound.wav"
+        },
+        {
+          "name": "Shoot Replace",
+          "replace_ids": [
+            13087362838
+          ],
+          "mode": "local",
+          "enabled": true,
+          "local_path": "C:\\Users\\rando\\Downloads\\pixel ak shoot.wav"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Animation",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Sprint Replace",
+          "replace_ids": [
+            13010904196
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Pixelclaw/raw/refs/heads/main/pixel%20ar%20sprint.rbxm"
+        },
+        {
+          "name": "Inspect Replace",
+          "replace_ids": [
+            13010893629
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Pixelclaw/raw/refs/heads/main/pixel%20ar%20inspect.rbxm"
+        },
+        {
+          "name": "Shoot Replace",
+          "replace_ids": [
+            13010911854
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Pixelclaw/raw/refs/heads/main/pixel%20ar%20shoot.rbxm"
+        },
+        {
+          "name": "Reload Replace",
+          "replace_ids": [
+            13010900962
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Pixelclaw/raw/refs/heads/main/pixel%20ar%20reload.rbxm"
+        },
+        {
+          "name": "Equip Replace",
+          "replace_ids": [
+            13010870236
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Pixelclaw/raw/refs/heads/main/pixel%20ar%20equip.rbxm"
+        },
+        {
+          "name": "Idle Replace",
+          "replace_ids": [
+            13010885336
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Pixelclaw/raw/refs/heads/main/pixel%20ar%20idle.rbxm"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Model",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Body Replace",
+          "replace_ids": [
+            12613284036
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Pixel-Ak-4/raw/refs/heads/main/pixel%20ak%20body.obj"
+        },
+        {
+          "name": "Mag Replace",
+          "replace_ids": [
+            12613284529
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Pixel-Ak-4/raw/refs/heads/main/pixel%20ak%20mag.obj"
+        },
+        {
+          "name": "Hide Extras",
+          "replace_ids": [
+            12613283569,
+            12613284249,
+            12613284768
+          ],
+          "mode": "id",
+          "enabled": true
+        },
+        {
+          "name": "Upper Bits Replace",
+          "replace_ids": [
+            14652718299
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Pixel-Ak-4/raw/refs/heads/main/pixel%20ak%20iron.obj"
+        },
+        {
+          "name": "Bolt Replace",
+          "replace_ids": [
+            12613283355
+          ],
+          "mode": "cdn",
+          "enabled": true,
+          "cdn_url": "https://github.com/randomck23/Pixel-Ak-4/raw/refs/heads/main/pixel%20ak%20bolt.obj"
+        }
+      ]
+    },
+    {
+      "type": "group",
+      "name": "Icon",
+      "expanded": true,
+      "children": [
+        {
+          "name": "Icon Replace",
+          "replace_ids": [
+            17160682738
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 17691132793
+        },
+        {
+          "name": "Icon Replace 2",
+          "replace_ids": [
+            13197584241
+          ],
+          "mode": "id",
+          "enabled": true,
+          "with_id": 17691136128
+        }
+      ]
+    }
+  ]
+}
