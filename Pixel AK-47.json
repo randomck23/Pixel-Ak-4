@@ -176,18 +176,18 @@
           "replace_ids": [
             17160682738
           ],
-          "mode": "id",
+          "mode": "cdn",
           "enabled": true,
-          "with_id": 17691132793
+          "cdn_url": "https://github.com/randomck23/Pixel-Ak-4/blob/main/pixel%20ak%20thumbnail.png?raw=true"
         },
         {
           "name": "Icon Replace 2",
           "replace_ids": [
             13197584241
           ],
-          "mode": "id",
+          "mode": "cdn",
           "enabled": true,
-          "with_id": 17691136128
+          "cdn_url": "https://github.com/randomck23/Pixel-Ak-4/blob/main/pixel%20ak%20thumbnail%202.png?raw=true"
         }
       ]
     }
